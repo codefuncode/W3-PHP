@@ -1,0 +1,12 @@
+Primer mes	Enero
+Segundo mes	Febrero
+Tercer mes	Marzo
+Cuarto mes	Abril
+Quinto mes	Mayo
+Sexto mes	Junio
+Séptimo mes	Julio
+Octavo mes	Agosto
+Noveno mes	Septiembre
+Décimo mes	Octubre
+Décimo primer mes	Noviembre
+Décimo segundo mes	Diciembre

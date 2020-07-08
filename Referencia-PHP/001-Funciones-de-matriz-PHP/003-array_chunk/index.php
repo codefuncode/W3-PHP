@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 // Definición y uso
 

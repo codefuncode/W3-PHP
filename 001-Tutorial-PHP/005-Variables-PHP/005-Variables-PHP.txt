@@ -1,0 +1,30 @@
+Las variables son 'contenedores' para almacenar información.
+Crear (declarar) variables PHP
+
+En PHP, una variable comienza con el signo $, seguido del nombre de la variable:
+
+Después de la ejecución de las declaraciones anteriores, la variable $ txt tendrá el valor ¡Hola mundo !, la variable $ x tendrá el valor 5 y la variable $ y tendrá el valor 10.5.
+
+Nota: Cuando asigne un valor de texto a una variable, ponga comillas alrededor del valor.
+
+Nota: A diferencia de otros lenguajes de programación, PHP no tiene ningún comando para declarar una variable. Se crea en el momento en que primero le asigna un valor.
+
+Variables PHP
+
+Una variable puede tener un nombre corto (como x e y) o un nombre más descriptivo (edad, nombre del automóvil, volumen_total).
+
+Reglas para variables PHP:
+
+Una variable comienza con el signo $, seguido del nombre de la variable
+Un nombre de variable debe comenzar con una letra o el carácter de subrayado
+Un nombre de variable no puede comenzar con un número
+Un nombre de variable solo puede contener caracteres alfanuméricos y guiones bajos (A-z, 0-9 y _)
+Los nombres de las variables distinguen entre mayúsculas y minúsculas ($ age y $ AGE son dos variables diferentes)
+
+¡Recuerde que los nombres de variables PHP distinguen entre mayúsculas y minúsculas!
+
+Variables de salida
+
+La declaración de eco PHP a menudo se usa para enviar datos a la pantalla.
+
+El siguiente ejemplo mostrará cómo generar texto y una variable:

@@ -1,1 +1,2 @@
 notas.txt
+https://www.w3schools.com/php/php_ref_mail.asp
